@@ -1,0 +1,8 @@
+export { default as Hero } from './Hero'
+export { default as Reviews } from './CustomerReviews'
+export { default as Footer } from './Footer'
+export { default as Popular } from './Popular'
+export { default as Services } from './Services'
+export { default as SpecialOffers } from './SpecialOffers'
+export { default as Subscribe } from './Subscribe'
+export { default as SuperQuality } from './SuperQuality'
